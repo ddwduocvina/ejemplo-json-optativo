@@ -1,0 +1,42 @@
+{
+    "empresa" : "Chilean Web",
+    "ubicacion" : "Valparaíso",
+    "fechaInicio" : 2016,
+    "equipo" : [
+        {
+            "nombre" : "Patricio Briones",
+            "edad" : 29,
+            "apodo" : "Pato Design",
+            "profesion" : "Diseñador UX",
+            "habilidades" : [
+                "Ponle más diseño",
+                "Comprende a los usuarios",
+                "Máquina de Wireframes"
+            ]
+        },
+        {
+            "nombre" : "Sofía Valdivieso",
+            "edad" : 39,
+            "apodo" : "Mujer de Hierro",
+            "profesion" : "Desarrolladora Web",
+            "habilidades" : [
+                "Chef de CSS",
+                "Te traduce una interfaz",
+                "Unicornio"
+            ]
+        },
+        {
+            "nombre" : "Jorge Siervo",
+            "edad" : 23,
+            "apodo" : "El Señor de la Noche",
+            "profesion" : "Informático",
+            "habilidades" : [
+                "Trabajar de noche",
+                "Catador de café",
+                "Comprende Javascript",
+                "Insomnio",
+                "Devorador de series"
+            ]
+        }
+    ]
+}
