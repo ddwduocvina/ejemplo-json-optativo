@@ -9,9 +9,9 @@
             "apodo" : "Pato Design",
             "profesion" : "Diseñador UX",
             "habilidades" : [
-                "Ponle más diseño",
-                "Comprende a los usuarios",
-                "Máquina de Wireframes"
+                "Ponerle más diseño",
+                "Comprender a los usuarios",
+                "Ser una Máquina de Wireframes"
             ]
         },
         {
@@ -21,7 +21,7 @@
             "profesion" : "Desarrolladora Web",
             "habilidades" : [
                 "Chef de CSS",
-                "Te traduce una interfaz",
+                "Traducir interfaces",
                 "Unicornio"
             ]
         },
@@ -32,10 +32,10 @@
             "profesion" : "Informático",
             "habilidades" : [
                 "Trabajar de noche",
-                "Catador de café",
-                "Comprende Javascript",
-                "Insomnio",
-                "Devorador de series"
+                "Ser atador de café",
+                "Comprender Javascript",
+                "Tener insomnio",
+                "Ser devorador de series"
             ]
         }
     ]
